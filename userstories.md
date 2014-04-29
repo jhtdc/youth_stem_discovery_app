@@ -1,9 +1,6 @@
 User Stories for the youth of color stem program discovery app
 Lead Developer: Jason Towns
 
-(0) As a [role], I can [feature] so that [reason]
-
-
 
 (1) As a black high school student, I want to hear first hand interviews from young tech professionals that look like me, so that I can be inspired to pursue my interest in STEM.
 
