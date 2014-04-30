@@ -10,4 +10,3 @@ Lead Developer: Jason Towns
 (3) As a tech employee interested in promoting diversity in tech, I want to find local opportunities to help, so that I can use my talent & access to impact students in my city.
 
 (4) As the director of a youth stem program, I want to find a way to reach more interested students & parents, so that we can scale our efforts.
-
